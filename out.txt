@@ -1,0 +1,167 @@
+Ignoring gevent: markers 'python_version > "3.10"' don't match your environment
+Ignoring greenlet: markers 'python_version > "3.10"' don't match your environment
+Ignoring Jinja2: markers 'python_version > "3.10"' don't match your environment
+Ignoring lxml: markers 'python_version > "3.10"' don't match your environment
+Ignoring MarkupSafe: markers 'python_version > "3.10"' don't match your environment
+Ignoring Pillow: markers 'python_version > "3.10"' don't match your environment
+Ignoring psutil: markers 'python_version > "3.10"' don't match your environment
+Ignoring psycopg2: markers 'sys_platform != "win32" and python_version <= "3.10"' don't match your environment
+Ignoring PyPDF2: markers 'python_version > "3.10"' don't match your environment
+Ignoring python-ldap: markers 'sys_platform != "win32"' don't match your environment
+Ignoring reportlab: markers 'python_version > "3.10"' don't match your environment
+Collecting Babel==2.9.1
+  Using cached Babel-2.9.1-py2.py3-none-any.whl (8.8 MB)
+Collecting chardet==4.0.0
+  Using cached chardet-4.0.0-py2.py3-none-any.whl (178 kB)
+Collecting cryptography==3.4.8
+  Using cached cryptography-3.4.8-cp36-abi3-win_amd64.whl (1.6 MB)
+Collecting decorator==4.4.2
+  Using cached decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting docutils==0.17
+  Using cached docutils-0.17-py2.py3-none-any.whl (575 kB)
+Collecting ebaysdk==2.1.5
+  Using cached ebaysdk-2.1.5.tar.gz (42 kB)
+Collecting freezegun==1.1.0
+  Using cached freezegun-1.1.0-py2.py3-none-any.whl (16 kB)
+Collecting geoip2==2.9.0
+  Using cached geoip2-2.9.0-py2.py3-none-any.whl (18 kB)
+Collecting gevent==21.8.0
+  Using cached gevent-21.8.0-cp310-cp310-win_amd64.whl (1.6 MB)
+Collecting greenlet==1.1.2
+  Using cached greenlet-1.1.2-cp310-cp310-win_amd64.whl (101 kB)
+Collecting idna==2.10
+  Using cached idna-2.10-py2.py3-none-any.whl (58 kB)
+Collecting Jinja2==3.0.3
+  Using cached Jinja2-3.0.3-py3-none-any.whl (133 kB)
+Collecting libsass==0.20.1
+  Using cached libsass-0.20.1.tar.gz (316 kB)
+Collecting lxml==4.8.0
+  Using cached lxml-4.8.0-cp310-cp310-win_amd64.whl (3.6 MB)
+Collecting MarkupSafe==2.0.1
+  Using cached MarkupSafe-2.0.1-cp310-cp310-win_amd64.whl (15 kB)
+Collecting num2words==0.5.10
+  Using cached num2words-0.5.10-py3-none-any.whl (101 kB)
+Collecting ofxparse==0.21
+  Using cached ofxparse-0.21.tar.gz (53 kB)
+Collecting passlib==1.7.4
+  Using cached passlib-1.7.4-py2.py3-none-any.whl (525 kB)
+Collecting Pillow==9.0.1
+  Using cached Pillow-9.0.1-cp310-cp310-win_amd64.whl (3.2 MB)
+Collecting polib==1.1.1
+  Using cached polib-1.1.1-py2.py3-none-any.whl (20 kB)
+Collecting psutil==5.9.0
+  Using cached psutil-5.9.0-cp310-cp310-win_amd64.whl (245 kB)
+Collecting psycopg2==2.9.5
+  Using cached psycopg2-2.9.5-cp310-cp310-win_amd64.whl (1.2 MB)
+Collecting pydot==1.4.2
+  Using cached pydot-1.4.2-py2.py3-none-any.whl (21 kB)
+Collecting pyopenssl==21.0.0
+  Using cached pyOpenSSL-21.0.0-py2.py3-none-any.whl (55 kB)
+Collecting PyPDF2==1.26.0
+  Using cached PyPDF2-1.26.0.tar.gz (77 kB)
+Collecting pypiwin32
+  Using cached pypiwin32-223-py3-none-any.whl (1.7 kB)
+Collecting pyserial==3.5
+  Using cached pyserial-3.5-py2.py3-none-any.whl (90 kB)
+Collecting python-dateutil==2.8.1
+  Using cached python_dateutil-2.8.1-py2.py3-none-any.whl (227 kB)
+Collecting python-stdnum==1.17
+  Using cached python_stdnum-1.17-py2.py3-none-any.whl (943 kB)
+Collecting pytz
+  Using cached pytz-2023.4-py2.py3-none-any.whl (506 kB)
+Collecting pyusb==1.2.1
+  Using cached pyusb-1.2.1-py3-none-any.whl (58 kB)
+Collecting qrcode==7.3.1
+  Using cached qrcode-7.3.1.tar.gz (43 kB)
+Collecting reportlab==3.6.8
+  Using cached reportlab-3.6.8-cp310-cp310-win_amd64.whl (2.3 MB)
+Collecting requests==2.25.1
+  Using cached requests-2.25.1-py2.py3-none-any.whl (61 kB)
+Collecting rjsmin==1.1.0
+  Using cached rjsmin-1.1.0.tar.gz (412 kB)
+Collecting urllib3==1.26.5
+  Using cached urllib3-1.26.5-py2.py3-none-any.whl (138 kB)
+Collecting vobject==0.9.6.1
+  Using cached vobject-0.9.6.1.tar.gz (58 kB)
+Collecting Werkzeug==2.0.2
+  Using cached Werkzeug-2.0.2-py3-none-any.whl (288 kB)
+Collecting xlrd==1.2.0
+  Using cached xlrd-1.2.0-py2.py3-none-any.whl (103 kB)
+Collecting XlsxWriter==3.0.2
+  Using cached XlsxWriter-3.0.2-py3-none-any.whl (149 kB)
+Collecting xlwt==1.3.*
+  Using cached xlwt-1.3.0-py2.py3-none-any.whl (99 kB)
+Collecting zeep==4.1.0
+  Using cached zeep-4.1.0-py2.py3-none-any.whl (100 kB)
+Collecting cffi>=1.12
+  Using cached cffi-1.16.0-cp310-cp310-win_amd64.whl (181 kB)
+Collecting maxminddb>=1.4.0
+  Using cached maxminddb-2.5.2-cp310-cp310-win_amd64.whl (35 kB)
+Requirement already satisfied: setuptools in c:\users\asangnier\documents\okteo\odoo\venv\lib\site-packages (from gevent==21.8.0->-r requirements.txt (line 11)) (57.4.0)
+Collecting zope.interface
+  Using cached zope.interface-6.1-cp310-cp310-win_amd64.whl (204 kB)
+Collecting zope.event
+  Using cached zope.event-5.0-py3-none-any.whl (6.8 kB)
+Collecting six
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Collecting docopt>=0.6.2
+  Using cached docopt-0.6.2.tar.gz (25 kB)
+Collecting beautifulsoup4
+  Using cached beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+Collecting pyparsing>=2.1.4
+  Using cached pyparsing-3.1.1-py3-none-any.whl (103 kB)
+Collecting colorama
+  Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting certifi>=2017.4.17
+  Using cached certifi-2023.11.17-py3-none-any.whl (162 kB)
+Collecting cached-property>=1.3.0
+  Using cached cached_property-1.5.2-py2.py3-none-any.whl (7.6 kB)
+Collecting isodate>=0.5.4
+  Using cached isodate-0.6.1-py2.py3-none-any.whl (41 kB)
+Collecting requests-toolbelt>=0.7.1
+  Using cached requests_toolbelt-1.0.0-py2.py3-none-any.whl (54 kB)
+Collecting platformdirs>=1.4.0
+  Using cached platformdirs-4.1.0-py3-none-any.whl (17 kB)
+Collecting requests-file>=1.5.1
+  Using cached requests_file-1.5.1-py2.py3-none-any.whl (3.7 kB)
+Collecting attrs>=17.2.0
+  Using cached attrs-23.2.0-py3-none-any.whl (60 kB)
+Collecting pywin32>=223
+  Using cached pywin32-306-cp310-cp310-win_amd64.whl (9.2 MB)
+Collecting pycparser
+  Using cached pycparser-2.21-py2.py3-none-any.whl (118 kB)
+Collecting setuptools
+  Using cached setuptools-69.0.3-py3-none-any.whl (819 kB)
+Collecting soupsieve>1.2
+  Using cached soupsieve-2.5-py3-none-any.whl (36 kB)
+Using legacy 'setup.py install' for ebaysdk, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for libsass, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for ofxparse, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for PyPDF2, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for qrcode, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for rjsmin, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for vobject, since package 'wheel' is not installed.
+Using legacy 'setup.py install' for docopt, since package 'wheel' is not installed.
+Installing collected packages: urllib3, pycparser, idna, chardet, certifi, soupsieve, six, setuptools, requests, cffi, zope.interface, zope.event, requests-toolbelt, requests-file, pywin32, pytz, python-dateutil, pyparsing, platformdirs, Pillow, maxminddb, MarkupSafe, lxml, isodate, greenlet, docopt, cryptography, colorama, cached-property, beautifulsoup4, attrs, zeep, xlwt, XlsxWriter, xlrd, Werkzeug, vobject, rjsmin, reportlab, qrcode, pyusb, python-stdnum, pyserial, pypiwin32, PyPDF2, pyopenssl, pydot, psycopg2, psutil, polib, passlib, ofxparse, num2words, libsass, Jinja2, gevent, geoip2, freezegun, ebaysdk, docutils, decorator, Babel
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 57.4.0
+    Uninstalling setuptools-57.4.0:
+      Successfully uninstalled setuptools-57.4.0
+    Running setup.py install for docopt: started
+    Running setup.py install for docopt: finished with status 'done'
+    Running setup.py install for vobject: started
+    Running setup.py install for vobject: finished with status 'done'
+    Running setup.py install for rjsmin: started
+    Running setup.py install for rjsmin: finished with status 'done'
+    Running setup.py install for qrcode: started
+    Running setup.py install for qrcode: finished with status 'done'
+    Running setup.py install for PyPDF2: started
+    Running setup.py install for PyPDF2: finished with status 'done'
+    Running setup.py install for ofxparse: started
+    Running setup.py install for ofxparse: finished with status 'done'
+    Running setup.py install for libsass: started
+    Running setup.py install for libsass: still running...
+    Running setup.py install for libsass: finished with status 'done'
+    Running setup.py install for ebaysdk: started
+    Running setup.py install for ebaysdk: finished with status 'done'
+Successfully installed Babel-2.9.1 Jinja2-3.0.3 MarkupSafe-2.0.1 Pillow-9.0.1 PyPDF2-1.26.0 Werkzeug-2.0.2 XlsxWriter-3.0.2 attrs-23.2.0 beautifulsoup4-4.12.3 cached-property-1.5.2 certifi-2023.11.17 cffi-1.16.0 chardet-4.0.0 colorama-0.4.6 cryptography-3.4.8 decorator-4.4.2 docopt-0.6.2 docutils-0.17 ebaysdk-2.1.5 freezegun-1.1.0 geoip2-2.9.0 gevent-21.8.0 greenlet-1.1.2 idna-2.10 isodate-0.6.1 libsass-0.20.1 lxml-4.8.0 maxminddb-2.5.2 num2words-0.5.10 ofxparse-0.21 passlib-1.7.4 platformdirs-4.1.0 polib-1.1.1 psutil-5.9.0 psycopg2-2.9.5 pycparser-2.21 pydot-1.4.2 pyopenssl-21.0.0 pyparsing-3.1.1 pypiwin32-223 pyserial-3.5 python-dateutil-2.8.1 python-stdnum-1.17 pytz-2023.4 pyusb-1.2.1 pywin32-306 qrcode-7.3.1 reportlab-3.6.8 requests-2.25.1 requests-file-1.5.1 requests-toolbelt-1.0.0 rjsmin-1.1.0 setuptools-69.0.3 six-1.16.0 soupsieve-2.5 urllib3-1.26.5 vobject-0.9.6.1 xlrd-1.2.0 xlwt-1.3.0 zeep-4.1.0 zope.event-5.0 zope.interface-6.1
